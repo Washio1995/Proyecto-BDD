@@ -1,0 +1,106 @@
+c:\users\washington añasco\source\repos\Pro_Dis_1\Pro_Dis_1\bin\Debug\Pro_Dis_1.exe.config
+c:\users\washington añasco\source\repos\Pro_Dis_1\Pro_Dis_1\bin\Debug\Pro_Dis_1.exe
+c:\users\washington añasco\source\repos\Pro_Dis_1\Pro_Dis_1\bin\Debug\Pro_Dis_1.pdb
+c:\users\washington añasco\source\repos\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.csprojAssemblyReference.cache
+c:\users\washington añasco\source\repos\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.VentanaPrincipal.resources
+c:\users\washington añasco\source\repos\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.Properties.Resources.resources
+c:\users\washington añasco\source\repos\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.csproj.GenerateResource.cache
+c:\users\washington añasco\source\repos\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.csproj.CoreCompileInputs.cache
+c:\users\washington añasco\source\repos\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.exe
+c:\users\washington añasco\source\repos\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.pdb
+C:\Users\Washington Añasco\source\repos\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmEmpleados.resources
+C:\Users\Washington Añasco\source\repos\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmClientes.resources
+C:\Users\Washington Añasco\source\repos\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmFacturas.resources
+C:\Users\Washington Añasco\source\repos\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmJuguetes.resources
+C:\Users\Washington Añasco\source\repos\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmGestionFactura.resources
+C:\Users\Washington Añasco\source\repos\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmNuevaFactura.resources
+C:\Users\fatima\Documents\2. ERICK\5. quinto nivel-b\BDD\Pro_Dis_1\Pro_Dis_1\bin\Debug\Pro_Dis_1.exe.config
+C:\Users\fatima\Documents\2. ERICK\5. quinto nivel-b\BDD\Pro_Dis_1\Pro_Dis_1\bin\Debug\Pro_Dis_1.exe
+C:\Users\fatima\Documents\2. ERICK\5. quinto nivel-b\BDD\Pro_Dis_1\Pro_Dis_1\bin\Debug\Pro_Dis_1.pdb
+C:\Users\fatima\Documents\2. ERICK\5. quinto nivel-b\BDD\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.csprojResolveAssemblyReference.cache
+C:\Users\fatima\Documents\2. ERICK\5. quinto nivel-b\BDD\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmEmpleados.resources
+C:\Users\fatima\Documents\2. ERICK\5. quinto nivel-b\BDD\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmClientes.resources
+C:\Users\fatima\Documents\2. ERICK\5. quinto nivel-b\BDD\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmFacturas.resources
+C:\Users\fatima\Documents\2. ERICK\5. quinto nivel-b\BDD\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmGestionFactura.resources
+C:\Users\fatima\Documents\2. ERICK\5. quinto nivel-b\BDD\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmJuguetes.resources
+C:\Users\fatima\Documents\2. ERICK\5. quinto nivel-b\BDD\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmNuevaFactura.resources
+C:\Users\fatima\Documents\2. ERICK\5. quinto nivel-b\BDD\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.VentanaPrincipal.resources
+C:\Users\fatima\Documents\2. ERICK\5. quinto nivel-b\BDD\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.Properties.Resources.resources
+C:\Users\fatima\Documents\2. ERICK\5. quinto nivel-b\BDD\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.csproj.GenerateResource.Cache
+C:\Users\fatima\Documents\2. ERICK\5. quinto nivel-b\BDD\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.csproj.CoreCompileInputs.cache
+C:\Users\fatima\Documents\2. ERICK\5. quinto nivel-b\BDD\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.exe
+C:\Users\fatima\Documents\2. ERICK\5. quinto nivel-b\BDD\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.pdb
+E:\Pro_Dis_1\Pro_Dis_1\bin\Debug\Pro_Dis_1.exe.config
+E:\Pro_Dis_1\Pro_Dis_1\bin\Debug\Pro_Dis_1.exe
+E:\Pro_Dis_1\Pro_Dis_1\bin\Debug\Pro_Dis_1.pdb
+E:\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.csprojAssemblyReference.cache
+E:\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmEmpleados.resources
+E:\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmClientes.resources
+E:\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmFacturas.resources
+E:\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmGestionFactura.resources
+E:\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmJuguetes.resources
+E:\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmNuevaFactura.resources
+E:\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.VentanaPrincipal.resources
+E:\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.Properties.Resources.resources
+E:\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.csproj.GenerateResource.cache
+E:\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.csproj.CoreCompileInputs.cache
+E:\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.exe
+E:\Pro_Dis_1\Pro_Dis_1\obj\Debug\Pro_Dis_1.pdb
+C:\Users\Washington Añasco\Documents\Pro_Dis_2\Pro_Dis_1\bin\Debug\Pro_Dis_1.exe.config
+C:\Users\Washington Añasco\Documents\Pro_Dis_2\Pro_Dis_1\bin\Debug\Pro_Dis_1.exe
+C:\Users\Washington Añasco\Documents\Pro_Dis_2\Pro_Dis_1\bin\Debug\Pro_Dis_1.pdb
+C:\Users\Washington Añasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.csprojAssemblyReference.cache
+C:\Users\Washington Añasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmEmpleados.resources
+C:\Users\Washington Añasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmClientes.resources
+C:\Users\Washington Añasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmFacturas.resources
+C:\Users\Washington Añasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmGestionFactura.resources
+C:\Users\Washington Añasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmJuguetes.resources
+C:\Users\Washington Añasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmNuevaFactura.resources
+C:\Users\Washington Añasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.VentanaPrincipal.resources
+C:\Users\Washington Añasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.Properties.Resources.resources
+C:\Users\Washington Añasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.csproj.GenerateResource.cache
+C:\Users\Washington Añasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.csproj.CoreCompileInputs.cache
+C:\Users\Washington Añasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.exe
+C:\Users\Washington Añasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.pdb
+C:\Users\Washington Añasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.MenuMaster.resources
+C:\Users\Washington Añasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmAuditoria.resources
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_2\Pro_Dis_1\bin\Debug\Pro_Dis_1.exe.config
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_2\Pro_Dis_1\bin\Debug\Pro_Dis_1.exe
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_2\Pro_Dis_1\bin\Debug\Pro_Dis_1.pdb
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.csprojAssemblyReference.cache
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmAuditoria.resources
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmEmpleados.resources
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmClientes.resources
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmFacturas.resources
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmGestionFactura.resources
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmJuguetes.resources
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmNuevaFactura.resources
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.MenuMaster.resources
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.VentanaPrincipal.resources
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.Properties.Resources.resources
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.csproj.GenerateResource.cache
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.csproj.CoreCompileInputs.cache
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.exe
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.pdb
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmCategoriaJuguete.resources
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_2\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmJugueterias.resources
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_3\Pro_Dis_1\obj\Debug\Pro_Dis_1.csprojAssemblyReference.cache
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_3\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmAuditoria.resources
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_3\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmCategoriaJuguete.resources
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_3\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmEmpleados.resources
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_3\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmJugueterias.resources
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_3\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmJuguetes.resources
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_3\Pro_Dis_1\obj\Debug\Pro_Dis_1.MenuMaster.resources
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_3\Pro_Dis_1\obj\Debug\Pro_Dis_1.VentanaPrincipal.resources
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_3\Pro_Dis_1\obj\Debug\Pro_Dis_1.Properties.Resources.resources
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_3\Pro_Dis_1\obj\Debug\Pro_Dis_1.csproj.GenerateResource.cache
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_3\Pro_Dis_1\obj\Debug\Pro_Dis_1.csproj.CoreCompileInputs.cache
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_3\Pro_Dis_1\obj\Debug\Pro_Dis_1.exe
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_3\Pro_Dis_1\obj\Debug\Pro_Dis_1.pdb
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_3\Pro_Dis_1\bin\Debug\Pro_Dis_1.exe.config
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_3\Pro_Dis_1\bin\Debug\Pro_Dis_1.exe
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_3\Pro_Dis_1\bin\Debug\Pro_Dis_1.pdb
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_3\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmClientes.resources
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_3\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmFacturas.resources
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_3\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmGestionFactura.resources
+C:\Users\WashingtonAnasco\Documents\Pro_Dis_3\Pro_Dis_1\obj\Debug\Pro_Dis_1.frmNuevaFactura.resources
